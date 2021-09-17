@@ -5,8 +5,8 @@ This is my **hello world demo** software
 ## Tools
 * Python
 * VS Code
-* Git
+* Git/Github
 
 ## Useful links
-Here is the Youtube link for this Demo: [Youtube video](link goes in here)
+Here is the Youtube link for this Demo: [Youtube video](https://youtu.be/eRfsMlTtZnU)
 ![PictureNmae](IMG_9002.JPG)
